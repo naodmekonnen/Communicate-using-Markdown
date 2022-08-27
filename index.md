@@ -5,3 +5,5 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [ ] Learn Markdown
+- [ ] Move on to the next
